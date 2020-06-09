@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4c31f50d-a4e4-44be-a846-ecd719cc9d8d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mycode/03-build/gulp/zce-gulp-demo/gulpfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/mycode/03-build/gulp/zce-gulp-demo/gulpfile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mycode/03-build/gulp/zce-gulp-demo/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/mycode/03-build/gulp/zce-gulp-demo/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mycode/03-build/gulp/zce-gulp-demo/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/mycode/03-build/gulp/zce-gulp-demo/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mycode/my-web-app/.babelrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mycode/my-web-app/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mycode/my-web-app/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mycode/my-web-app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mycode/my-web-app/.yo-rc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mycode/my-web-app/app/apple-touch-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mycode/my-web-app/app/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mycode/my-web-app/app/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mycode/my-web-app/app/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mycode/my-web-app/app/scripts/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mycode/my-web-app/app/styles/main.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mycode/my-web-app/gulpfile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mycode/my-web-app/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mycode/my-web-app/test/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mycode/my-web-app/test/spec/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/node.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/node.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1d1v3RzCH0S7TEbyxGBYly5pDYA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4c31f50d-a4e4-44be-a846-ecd719cc9d8d" name="Default Changelist" comment="" />
+      <created>1591605213537</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591605213537</updated>
+      <workItem from="1591605216536" duration="74000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+</project>
